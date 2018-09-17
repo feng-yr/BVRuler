@@ -9,8 +9,8 @@ BVRuler : A binocular vision ranging system based on OpenCV
 ## Dependency
 
 OpenCV: Open Source Computer Vision Library
-Version: 3.x.x
 
+* Version: 3.x.x
 * Homepage: <http://opencv.org>
 * Docs: <http://docs.opencv.org/master/>
 * Q&A forum: <http://answers.opencv.org>
